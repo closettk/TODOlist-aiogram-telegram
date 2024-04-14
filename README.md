@@ -1,6 +1,6 @@
 # TODOlist-aiogram-telegram
 Задачник для телеграмма на aiogram3
-
+Есть вопросы/По поводу написания ботов пишите мне в tg @benetter
 
 https://github.com/closettk/TODOlist-aiogram-telegram/assets/132755051/a2708cf3-1f64-41c9-a41d-f242ea038b9c
 
